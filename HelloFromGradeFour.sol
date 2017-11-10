@@ -1,5 +1,6 @@
 pragma solidity ^0.4.0;
 
+// A darkmatteryyc.ca experiment - created using Regis.nu
 // This is the base contract that your contract HelloFromGradeFour extends from.
 contract BaseRegistry {
 
