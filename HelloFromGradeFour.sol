@@ -1,6 +1,6 @@
 pragma solidity ^0.4.0;
 
-// A darkmatteryyc.ca experiment - created using the Regis.nu tool by ConsenSys
+// A darkmatteryyc.ca experiment created using the Regis tool by ConsenSys - https://regis.nu
 // Messages from Grade 4 students to their future selves
 // This is the base contract that your contract HelloFromGradeFour extends from.
 contract BaseRegistry {
